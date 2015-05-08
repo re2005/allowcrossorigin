@@ -9,6 +9,7 @@
     "bower_components"
   ],
   "dependencies": {
-    "reset.less": ""
+    "reset.less" : "",
+    "lesshat" : "3.0.2"
   }
 }

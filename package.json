@@ -2,6 +2,7 @@
   "name": "AllowCrossOrigin",
   "version": "1.0.0",
   "author": "RenatoCardoso",
+  "description": "Talk about CrossOrigin requests",
   "license": "ISC",  
   "dependencies": {},
   "devDependencies": {
