@@ -1,0 +1,14 @@
+{
+  "name": "AllowCrossOrigin",
+  "version": "0.0.0",
+  "homepage": "http://allowcrossorigin.com",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components"
+  ],
+  "dependencies": {
+    "reset.less": ""
+  }
+}
