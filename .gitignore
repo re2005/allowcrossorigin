@@ -20,7 +20,7 @@ Thumbs.db
 .svn
 .CVS
 .idea
-.docs
+docs/
 
 node_modules
 dist
